@@ -1,1 +1,6 @@
 /* custom styles */
+.senate {
+	width: 750px;
+	height: 500px;
+	margin: 0 auto;
+}
