@@ -1,6 +1,32 @@
 /* custom styles */
+header {
+	display: inline-block;
+	width: 100%;
+}
+
+h1{
+	display: inline-block;
+
+}
+
+ul {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+}
+
 .senate {
-	width: 750px;
-	height: 500px;
+	width: 500px;
+	height: 400px;
 	margin: 0 auto;
+	border-radius: 80%;
+}
+
+.navbar {
+	text-decoration: none;
+	color: #888888;
+	font-family: lobster, monospace;
+	font-size: 30px;
 }
