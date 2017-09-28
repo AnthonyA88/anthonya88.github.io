@@ -4,22 +4,22 @@ header {
 	width: 100%;
 }
 
-h1{
+header h1{
 	display: inline-block;
 
 }
 
-ul {
+header ul {
 	display: inline-block;
 }
 
-li {
+header li {
 	display: inline-block;
 }
 
 .senate {
-	width: 500px;
-	height: 400px;
+	width: 200px;
+	height: 200px;
 	margin: 0 auto;
 	border-radius: 80%;
 }
@@ -29,4 +29,5 @@ li {
 	color: #888888;
 	font-family: lobster, monospace;
 	font-size: 30px;
+	background-color: lightblue;
 }
