@@ -17,11 +17,22 @@ header li {
 	display: inline-block;
 }
 
+body {
+	background-color: #123123;
+	background-image: url("assets/imgs/CSC_0288.JPG");
+}
+
+.snow {
+	background: url("assets/imgs/CSC_0288.JPG");
+}
+
+
 .senate {
-	width: 200px;
-	height: 200px;
+	width: 600px;
+	height: 600px;
 	margin: 0 auto;
-	border-radius: 80%;
+	border-radius: 100%;
+	
 }
 
 .navbar {
